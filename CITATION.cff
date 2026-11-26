@@ -1,0 +1,23 @@
+cff-version: 1.2.0
+message: "If you use these proofs, please cite them as below."
+type: software
+title: "Lean 4 proofs for Erdős Problems 23 (n = 1 case; C5 blow-up tightness) and 1171 (colour monotonicity)"
+version: 1.0.0
+license: Apache-2.0
+repository-code: "https://github.com/tommac/erdos-formal-proofs"
+authors:
+  - family-names: Maciejewski
+    given-names: Edmund Tom
+    affiliation: Independent researcher
+    orcid: "https://orcid.org/0009-0004-5702-5302"
+keywords:
+  - Erdős problems
+  - Lean 4
+  - Mathlib
+  - formal verification
+  - formal-conjectures
+abstract: >-
+  Kernel-checked Lean 4 / Mathlib proofs of Erdos23.erdos_23.variants.n1,
+  Erdos23.blowupC5_tight and Erdos1171.erdos_1171.variants.mono_k from
+  google-deepmind/formal-conjectures. These do not resolve Erdős Problem 23 or 1171,
+  which remain open.

@@ -1,0 +1,14 @@
+{
+  "title": "Lean 4 proofs for Erdős Problems 23 (n = 1 case; C5 blow-up tightness) and 1171 (colour monotonicity)",
+  "upload_type": "software",
+  "description": "<p>Kernel-checked Lean 4 / Mathlib proofs of three declarations from the formal-conjectures benchmark (google-deepmind/formal-conjectures): Erdos23.erdos_23.variants.n1, Erdos23.blowupC5_tight and Erdos1171.erdos_1171.variants.mono_k. These are a test case, the tightness example, and a monotonicity lemma. They do <b>not</b> resolve Erdős Problem 23 or 1171, which remain open. Axioms: propext, Classical.choice, Quot.sound only.</p>",
+  "creators": [{"name": "Maciejewski, Edmund Tom", "affiliation": "Independent researcher", "orcid": "0009-0004-5702-5302"}],
+  "license": "Apache-2.0",
+  "keywords": ["Erdős problems", "Lean 4", "Mathlib", "formal verification", "extremal graph theory", "partition relations", "formal-conjectures"],
+  "related_identifiers": [
+    {"identifier": "https://github.com/google-deepmind/formal-conjectures", "relation": "isSupplementTo", "scheme": "url"},
+    {"identifier": "https://www.erdosproblems.com/23", "relation": "references", "scheme": "url"},
+    {"identifier": "https://www.erdosproblems.com/1171", "relation": "references", "scheme": "url"}
+  ],
+  "version": "1.0.0"
+}
