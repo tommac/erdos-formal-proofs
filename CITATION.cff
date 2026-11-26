@@ -5,6 +5,7 @@ title: "Lean 4 proofs for Erdős Problems 23 (n = 1 case; C5 blow-up tightness) 
 version: 1.0.0
 license: Apache-2.0
 repository-code: "https://github.com/tommac/erdos-formal-proofs"
+doi: 10.5281/zenodo.24572643
 authors:
   - family-names: Maciejewski
     given-names: Edmund Tom

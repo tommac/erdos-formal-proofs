@@ -51,4 +51,5 @@ Apache 2.0 (same as formal-conjectures).
 
 ## How to cite
 
-DOI: TBD (Zenodo, assigned when v1.0 is archived). See `CITATION.cff`.
+DOI: [10.5281/zenodo.24572643](https://doi.org/10.5281/zenodo.24572643) (all versions; v1.0 is
+[10.5281/zenodo.24572644](https://doi.org/10.5281/zenodo.24572644)). See `CITATION.cff`.
